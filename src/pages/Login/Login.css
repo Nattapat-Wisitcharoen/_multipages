@@ -1,0 +1,36 @@
+.login-container {
+    text-align: center;
+    width: 300px;
+    margin: 2rem auto;
+    border: 1px solid lightgray;
+    border-radius: 0.5rem;
+    padding: 2rem;
+    box-shadow: 0 0 0.25rem gray;
+    text-align: center;    
+}
+
+.login-form {
+    font-size: 20px;
+    margin: 1rem;
+    text-align: left;
+}
+
+.login-text {
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.clear-text {
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.clear-button {
+    margin-right: 1.8rem;
+}
+
+#username, #password {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+}
